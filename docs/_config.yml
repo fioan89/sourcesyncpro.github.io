@@ -22,8 +22,8 @@ title: Sourcesync Pro
 email: fioan89@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   A fast, one-way file synchronization tool for IntelliJ based products.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+domain: sourcesyncpro.github.io       # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
+url: https://sourcesyncpro.github.io  # the base hostname and protocol for your site, e.g. http://example.com
 twitter_username: fioan89
 github_username:  fioan89
 logo: /assets/img/sourcesync.svg
