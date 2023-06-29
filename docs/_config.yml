@@ -24,7 +24,6 @@ description: >- # this means to ignore newlines until "baseurl:"
   A fast, one-way file synchronization tool for IntelliJ based products.
 twitter_username: fioan89
 github_username:  fioan89
-logo: /assets/img/sourcesync.svg
 blank_title: true
 favicon: true
 show_downloads: false
