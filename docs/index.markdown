@@ -5,17 +5,17 @@ title: "Sourcesync Pro"
 
 Accelerate development cycle with **Sourcesync Pro**, a plugin for all **IntelliJ** based products.
 
-**Sourcesync Pro**'s synchronization and forwarding capabilities provide a fast and seamless way of transfering code, binary artifacts and configuration files between local and remote development environments.
+**Sourcesync Pro**'s synchronization, forwarding and comparison capabilities for local vs remote files provide a fast and seamless way of transferring code, binary artifacts and configuration files between local and remote development environments.
 
-Local changes can be transferred on the remote infrastructure using the **SCP** or **SSH** protocols.
+Local **VCS changes**, **files** and **directories** can be transferred on the remote infrastructure using the **SCP** or **SSH** protocols.
 Other notable features include:
 
-- **password** and **key pair** authentication
-- support for **key pairs** with and without _passphrases_
-- timestamp preserving
-- file filtering
-- user-friendly UI with support for IntelliJ's **New UI** feature
-- synchronization of single or multi-selection files as well as VCS changes
+* **password** and **key pair** authentication
+* support for **key pairs** with and without *passphrases*
+* timestamp preserving
+* file filtering
+* user-friendly UI with support for IntelliJ's **New UI** feature
+* synchronization of single or multi-selection files as well as VCS changes
 
 ---
 
