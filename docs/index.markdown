@@ -45,6 +45,15 @@ Other notable features include:
 
 ---
 
+## How to install
+
+[Sourcesync Pro](https://plugins.jetbrains.com/plugin/22318-source-synchronizer-pro?noRedirect=true) plugin can be found at http://plugins.jetbrains.com/plugin/7374?pr=idea_ce
+
+Details about how to install a plugin from JetBrains plugin repository can be found at:
+http://www.jetbrains.com/idea/webhelp/installing-updating-and-uninstalling-repository-plugins.html
+
+---
+
 ## FAQ
 
 1. Where are my files transferred?
