@@ -24,7 +24,7 @@ Other notable features include:
 [Sourcesync](https://plugins.jetbrains.com/plugin/7374-source-synchronizer?noRedirect=true) is still available and under active development as a free and open source variant. [Sourcesync Pro](https://plugins.jetbrains.com/plugin/22318-source-synchronizer-pro?noRedirect=true) has more features and a more streamlined way of transferring code. Checkout the table below for a full feature comparison.
 
 |                            Features                             |        Sourcesync         |              Sourcesync Pro              |
-|:---------------------------------------------------------------:|:-------------------------:|:----------------------------------------:|
+|:----------------------------------------------------------------|:-------------------------:|:----------------------------------------:|
 |                             License                             | **Free** & **opensource** |  Starts at **$5.99 USD per user/month**  |
 |                         SCP File Upload                         |            Yes            |                   Yes                    |
 |                        SCP Folder Upload                        |          **No**           |          Yes - Recursive Upload          |
